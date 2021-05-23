@@ -1,0 +1,26 @@
+{
+  "name": "gemini-api-node",
+  "version": "1.0.0",
+  "description": "Make API request to Gemini.com crypto exchange to get past orders and transfer history.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "gemini",
+    "gemini-api",
+    "cryptocurrency",
+    "nodejs",
+    "cli-table",
+    "geminiexchange",
+    "cryptoexchange",
+    "bitcoin"
+  ],
+  "author": "chewhx <https://github.com/chewhx>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cli-table3": "^0.6.0",
+    "dotenv": "^10.0.0"
+  }
+}
