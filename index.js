@@ -23,7 +23,7 @@ const {
  * Make request to get past transfers and tabulate results in console
  */
 
-// getPastTransfersAndConsoleLog();
+getPastTransfersAndConsoleLog();
 
 /**
  * Make request to get past trades and save results as JSON file in root directory
